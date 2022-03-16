@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gabriel-gungoo-kim&show_icons=true&theme=radical)
+
 <!--
 **gabriel-gungoo-kim/gabriel-gungoo-kim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
